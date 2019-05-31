@@ -1,0 +1,3 @@
+A modified folder of SonyAIBORobotSurface2 data.
+
+The tab at the start of each row has been removed. Number of decimal places is changed.
