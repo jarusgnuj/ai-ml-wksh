@@ -1,0 +1,19 @@
+#Image Classification Workshop Outline
+
+## Alistair's talk on an introduction to the neural network.
+
+## Dataset
+Download, analyse, and view data
+
+### Excercise 1
+Load similar looking data points (e.g. coat, jumper) and discuss its similarity and differences
+## Neural Network Model
+Build, train, and test a neural network model on the dataset.
+### Excercise 1 (Model Tuning)
+Tune the model, change the batch size, hidden neurons, hidden layers, and epochs and observe its effects on 
+speed and accuracy.
+### Excercise 2 (Analysis)
+Check how the model performed on the various image, especially where it failed.
+
+## Use MNIST dataset
+Group activity where each group executes the pre-provided notebook for MNIST dataset. Each group will compete to obtain the highest accuracy.
