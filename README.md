@@ -22,3 +22,14 @@ The Open University
   
   d. Testing a trained model on new data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/4_TSC_final_test.ipynb)
   
+  
+  
+### Appendices
+
+  e. Appendix 1 Tools [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/Appendix_1_tools.ipynb)
+  
+  f. Appendix 2 Robot II [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/Appendix_2_test_on_robot_2.ipynb)
+  
+  g. Appendix 3 K-fold cross validation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/Appendix_3_kfold_cross_validation.ipynb)
+  
+  h. Appendix 4 Dropout [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/Appendix_4_dropout.ipynb)
