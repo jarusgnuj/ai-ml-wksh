@@ -10,12 +10,15 @@ The Open University
  
  c. Handwriting recognition with Neural Networks [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/image_classification/2_keras_mnist_feed_forward_colab.ipynb)
  
- ## Day 2
-  a. Introduction to Time Series Classification (TSC) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/1_TSC_data.ipynb)
+ ## Day 2 
  
-  b. Building and training a Multilayer Perceptron I [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/2_TSC_MLP.ipynb)
+ Time Series Classification (TSC)
+ 
+  a. Data preparation [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/1_TSC_data.ipynb)
+ 
+  b. Building and training a Multilayer Perceptron I & II [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/2_TSC_MLP.ipynb)
   
-  c. Building and training a Multilayer Perceptron II [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/3_TSC_model_development.ipynb)
+  c. Hyperparameter searching [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/3_TSC_model_development.ipynb)
   
   d. Testing a trained model on new data [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/jarusgnuj/ai-ml-wksh/blob/master/notebooks/time_series_classification/4_TSC_final_test.ipynb)
   
